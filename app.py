@@ -7,7 +7,7 @@ st.set_page_config(page_title="Evaluación Sistema MEAL", page_icon="📊", layo
 # Nota: Usa una URL directa a tu logo (que termine en .png o .jpg)
 st.image("Logo.png", width=250) 
 st.title("Sistema Web MEAL")
-st.write("Capacitación Técnica")
+st.write("Capacitación")
 st.info("⚠️ Responde todas las preguntas para procesar tu evaluación.")
 
 # --- FORMULARIO ---
