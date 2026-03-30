@@ -14,7 +14,7 @@ st.subheader("Registro de Capacitación Técnica")
 
 # --- INICIO DEL FORMULARIO ---
 with st.form("evaluacion_meal"):
-    st.info("📝 Datos del Especialista")
+    st.info("📝 Escriba sus nombres y apellidos")
     col_nom, col_ape = st.columns(2)
     nombre = col_nom.text_input("Nombres:", placeholder="Ej. Juan Carlos")
     apellido = col_ape.text_input("Apellidos:", placeholder="Ej. Pérez")
