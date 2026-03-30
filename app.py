@@ -5,9 +5,9 @@ st.set_page_config(page_title="Evaluación Sistema MEAL", page_icon="📊", layo
 
 # --- ENCABEZADO Y LOGO ---
 # Nota: Usa una URL directa a tu logo (que termine en .png o .jpg)
-st.image("https://cdn-icons-png.flaticon.com/512/2641/2641324.png", width=250) 
+st.image("/content/Logo.png", width=250) 
 st.title("Sistema Web MEAL")
-st.write("Capacitación Técnica para Especialistas")
+st.write("Capacitación Técnica")
 st.info("⚠️ Responde todas las preguntas para procesar tu evaluación.")
 
 # --- FORMULARIO ---
