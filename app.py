@@ -1,7 +1,5 @@
 import streamlit as st
 import requests
-streamlit
-requests
 
 st.set_page_config(page_title="Evaluación Sistema MEAL", page_icon="📊", layout="centered")
 
