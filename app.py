@@ -10,7 +10,7 @@ except:
     st.info("Sistema de Monitoreo y Evaluación")
 
 st.title("Sistema Web MEAL")
-st.subheader("Registro de Capacitación Técnica")
+st.subheader("Registro de Capacitación")
 
 # --- INICIO DEL FORMULARIO ---
 with st.form("evaluacion_meal"):
